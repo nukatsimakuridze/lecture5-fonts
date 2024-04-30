@@ -1,3 +1,204 @@
+.s-1 {
+	margin-bottom: 50px;
+}
+.container {
+	width: 1052px;
+	margin: 0 auto;
+}
+.img1 {
+	color: #30CBC2;
+	font-family: "Inter", sans-serif;
+	font-size: 48px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-left: 52px;
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 54px;
+	margin-bottom: 52px;
+}
+nav {
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 54px;
+}
+li {
+	display: inline-block;
+	vertical-align: top;
+}
+a {
+	color: #8D81FF;
+	font-family: FiraGO;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-left: 60px;
+	vertical-align: top;
+}
+.active {
+	color: #4E6FAE;
+}
+.mydiv1 {
+	border: 1px solid #000;
+	background: #5012D5;
+	box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+	color: #84FF81;
+	font-family: Helvetica;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	display: inline-block;
+	vertical-align: top;
+	padding: 10px 10px 10px 10px;
+	margin: 0px 50px 18px 50px;
+}
 h2 {
-	color: green;
+	color: #8D81FF;
+	font-family: "BPG Nino Mkhedruli", sans-serif;
+	font-size: 32px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin: 0px 5px 8px 52px;
+}
+h3 {
+	color: #4E6FAE;
+	font-family: "BPG Nostalgia", sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin: 0px 50px 13px 52px;
+}
+.img2 {
+	margin: 0px 50px 155px 52px;
+	display: inline-block;
+	vertical-align: top;
+}
+.paragraph {
+	color: #4E6FAE;
+	font-family: "BPG Square", sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	width: 778px;
+	height: 353px;
+	display: inline-block;
+	margin-right: 100px;
+}
+.myimg1 {
+	margin: 70px 0px 25px 50px;
+}
+.container {
+	width: 1052px;
+	margin: 0 auto;
+	margin-bottom: 26px;
+}
+h5 {
+	color: #4E6FAE;
+	font-family: FiraGO;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	display: inline-block;
+	vertical-align: middle;	
+	margin-top: 120px;
+	margin-right: 18px;
+}
+.myimg2 {
+	display: inline-block;
+	vertical-align: middle;	
+	margin-top: 120px;
+}
+h6 {
+	color: #4E6FAE;
+	font-family: FiraGO;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	display: inline-block;
+	vertical-align: middle;
+	margin-top: 120px;
+	margin-left: 18px;
+}
+.container1 {
+	width: 1052px;
+	margin: 0 auto; }
+.card-1 {
+	width: 500px;
+	height: 192px;
+	background-color: #E7E7E7;
+	padding: 20px;
+	display: inline-block;
+}
+
+h4 {
+	color: #3F4145;
+	font-family: "Roboto", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 20px;
+	line-height: normal;
+	margin-bottom: 20px;
+}
+.maglass{
+width: 77px;
+height: 77px;
+display: inline-block;
+vertical-align: middle;
+
+margin-right: 37px;
+}
+.myp1 {
+	width: 335px;
+	color: #7E8898;
+	font-family: "Roboto", sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	display: inline-block;
+	vertical-align: middle;
+
+}
+.s-2 {
+	background-color: #E7E7E7;
+	padding: 100px;
+}
+.info-div {
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 50px;
+}
+h1 {
+	color: #4E6FAE;
+	font-family: "Helvetica Neue";
+	font-size: 36px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-bottom: 27px;
+}
+p {
+	color: #3F4145;
+	font-family: "Helvetica Neue LT GEO";
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-bottom: 23px;
+}
+span {
+	color: #7E8898;
+	font-family: "Helvetica Neue LT GEO";
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
 }
